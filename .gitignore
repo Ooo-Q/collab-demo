@@ -1,0 +1,32 @@
+# Dependencies / lockfiles
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment & secrets (never commit)
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build / coverage
+dist/
+build/
+coverage/
+.nyc_output/
+
+# Logs
+logs/
+*.log

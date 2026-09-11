@@ -1,0 +1,13 @@
+{
+  "name": "collab-demo",
+  "version": "1.0.0",
+  "description": "GitHub collaboration practice project (A + B)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "hello": "node src/index.js"
+  },
+  "keywords": ["git", "github", "collaboration", "demo"],
+  "author": "Team A/B",
+  "license": "MIT"
+}
