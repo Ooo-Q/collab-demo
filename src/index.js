@@ -3,7 +3,7 @@
  * Person A and Person B will each change this file on feature branches.
  */
 
-function greet(teamName = "A + B practice repo") {
+function greet(teamName = "Person A was here") {
   return [
     "Hello from collab-demo!",
     `Team: ${teamName}`,
